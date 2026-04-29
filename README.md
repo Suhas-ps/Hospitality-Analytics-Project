@@ -88,17 +88,13 @@ The hospitality business required a structured analysis to:
 
 ---
 
-<h2><a class="anchor" id="property-level-analysis"></a>📊 Property Level Analysis</h2>
 
-<img width="1800" alt="Property Metrics Table" src="ADD_IMAGE_LINK_HERE" />
+<img width="1354" height="744" alt="Power BI Dashboard-3" src="https://github.com/user-attachments/assets/779dea19-3914-4c99-92ff-06581b982f81" />
 
----
-
-<img width="1800" alt="Revenue by Room Class" src="ADD_IMAGE_LINK_HERE" />
 
 ---
 
-<img width="1800" alt="Weekly Trends & Platform Analysis" src="ADD_IMAGE_LINK_HERE" />
+<img width="1640" height="790" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/05fc2c55-e59c-4987-bef5-443585ff4c1e" />
 
 ---
 
