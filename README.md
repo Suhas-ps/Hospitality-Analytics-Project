@@ -73,15 +73,18 @@ The hospitality business required a structured analysis to:
 
 <h2><a class="anchor" id="hospitality-dashboards"></a>📊 Hospitality Dashboards</h2>
 
-<img width="1800" alt="Hospitality Dashboard Overview" src="ADD_IMAGE_LINK_HERE" />
+<img width="1816" height="657" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/5af2ad3a-358d-43e8-aa19-23ef01cacbc1" />
+
 
 ---
 
-<img width="1800" alt="Hospitality Analysis Dashboard" src="ADD_IMAGE_LINK_HERE" />
+<img width="1371" height="745" alt="Power BI Dashboard-1" src="https://github.com/user-attachments/assets/a3e760c2-41d5-44c1-a74e-16d0f023d7fa" />
+
 
 ---
 
-<img width="1800" alt="Revenue & Booking Insights" src="ADD_IMAGE_LINK_HERE" />
+<img width="1375" height="743" alt="Power BI Dashboard-2" src="https://github.com/user-attachments/assets/38440895-9d02-493e-b256-ab6fe21fa230" />
+
 
 ---
 
