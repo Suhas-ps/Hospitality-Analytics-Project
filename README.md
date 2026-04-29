@@ -42,7 +42,7 @@ The hospitality business required a structured analysis to:
 - Excel — data cleaning, validation, and initial analysis  
 - SQL — data extraction, joins, aggregations, and transformation  
 - Power BI — data modeling, DAX measures, and interactive dashboards  
-- DAX — KPI calculations (RevPAR, ADR, Occupancy %, Realisation %)  
+- Tableau — trend analysis and comparative visual reporting   
 - GitHub — version control and project documentation  
 
 ---
